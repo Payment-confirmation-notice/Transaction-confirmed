@@ -6,4 +6,4 @@ ds
 sd
 dss
 ss
-scs
+scss
